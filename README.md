@@ -1,1 +1,1 @@
-# Este repositorio contrandra todo el material del bootcampo de desarrollo web
+# Este repositorio contendrá todo el material del bootcamp de desarrollo web
